@@ -17,7 +17,6 @@
   
   <!-- Sweetalert of swal -->
    <script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/7.29.2/sweetalert2.all.js"></script>
-  <link rel="stylesheet" href="node_modules/sweetalert/dist/sweetalert.min.js">
   <link href="assets/libs/sweetalert2/dist/sweetalert2.min.css" rel="stylesheet" type="text/css">
   <!-- CSS -->
   <link href="dist/css/style.css" rel="stylesheet">
